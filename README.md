@@ -1,3 +1,4 @@
-## 🌐Contact Information
-- **Email**: lamcity4869@gmail.com
-- **Phone Number**: 0989141392
+## Connect with me:
+- **📘[Facebook](https://www.facebook.com/nency4869/)**
+- **📍[LeetCode](https://leetcode.com/u/NenCyCode/)**
+- **✉️[Email](lamcity4869@gmail.com)**
