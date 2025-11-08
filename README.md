@@ -31,10 +31,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-private-liart.vercel.app/api/top-langs/?username=lamvc4869&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=124874&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+        <img src="https://github-readme-stats-private-liart.vercel.app/api/top-langs/?username=lamvc4869&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=2D9EF7&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats-private-liart.vercel.app/api?username=lamvc4869&title_color=124874&icon_color=124874&text_color=00cccc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=percentile&include_all_commits=true" />
+        <img src="https://github-readme-stats-private-liart.vercel.app/api?username=lamvc4869&title_color=2D9EF7&icon_color=2D9EF7&text_color=00cccc&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=percentile&include_all_commits=true" />
       </td>
     </tr>
   </table>
