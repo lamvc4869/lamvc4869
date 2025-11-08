@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### Techs
+### Tech Stack
 
 <table>
   <tr>
