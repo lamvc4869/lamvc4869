@@ -1,8 +1,7 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=Võ+Chí+Lâm;Web+Developer" 
-    alt="Typing SVG" 
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=V%C3%B5+Ch%C3%AD+L%C3%A2m;Web+Developer" 
+  alt="Typing SVG" />
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lamvc4869&color=dc143c&style=for-the-badge">
   </p>
