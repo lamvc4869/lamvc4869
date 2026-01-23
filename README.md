@@ -1,24 +1,24 @@
 <div align="center">
-  <img 
+  <!-- <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=V%C3%B5+Ch%C3%AD+L%C3%A2m;Web+Developer" 
-  alt="Typing SVG" />
+  alt="Typing SVG" /> -->
   <p align="center">
     <!-- <img src="https://komarev.com/ghpvc/?username=lamvc4869&color=dc143c&style=for-the-badge"> -->
     <a href="mailto:lamcity4869@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge" alt="email">
     </a>
-    <a href="https://www.facebook.com/nency4869/" target="_blank">
+    <!-- <a href="https://www.facebook.com/nency4869/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
     <a href="https://github.com/lamvc4869" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
+    </a> -->
   </p>
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-# GitHub Analytics
+# Analytics
 
 <div align="center">
   <table>
@@ -35,7 +35,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-# Tech Stack and Tools
+<!-- # Tech Stack and Tools
 
 <div align="center">
 
@@ -98,4 +98,4 @@
 </table>
 </div>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
